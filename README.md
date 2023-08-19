@@ -33,14 +33,16 @@ Access the dashboard [here](https://lookerstudio.google.com/reporting/532cc0c9-4
 ![Dashboard 2](docs/Dashboard-2.png)
 
 ## Google Cloud Usage Billing Report
-Data infrastructure we used in this project are entirely built on Google Cloud Platform with more or less 3 weeks of project duration, 
+Data infrastructure we used in this project are entirely built on Google Cloud Platform with more or 1 month of project duration, 
 using this following services:
 - Google Cloud Storage (pay for what you use)
 - Google BigQuery (first terrabyte processed are free of charge)
 - Google Looker Studio (cost is based from number of Looker Blocks (data models and visualizations), users, and the number of queries processed per month)
 - Pub/sub (cost is based from amount of data exchanged)
 - Dataflow (cost is based on duration of processing job and number of resources utilized)
-> Total cost around 51$ out of 300$ free credits that GCP provided
+> Total cost around Rp 2000
+
+![Calculator](docs/calculator.png)
 
 ## Resources
 [Making]
