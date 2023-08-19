@@ -22,15 +22,15 @@ In order solve the problems, as a Data Engineer our team are proposing some obje
 
 ## Reproducibility
 
-In order to reproduce the dependencies and overall environment used on this project refer to this guide [README.MD](https://github.com/blitzkz23/final-project-end-to-end-banking-campaign-pipeline/blob/main/src/README.MD)
+In order to reproduce the dependencies and overall environment used on this project refer to this guide [README.MD](https://github.com/mzfuadi97/DF8-Fireflowedit/blob/master/src/README.MD)
 
 ## Data Visualization Dashboard
 
-Access the dashboard [here](https://datastudio.google.com/u/0/reporting/b3ef6967-6deb-4574-a591-9444d1a99a8a/page/tEnnC)
+Access the dashboard [here](https://lookerstudio.google.com/reporting/532cc0c9-4325-4ee9-af9c-e68832c83241/page/CD3AD)
 
-![Dashboard 1](docs/new_dashboard1.png)
+![Dashboard 1](docs/Dashboard-1.png)
 
-![Dashboard 2](docs/new_dashboard2.png)
+![Dashboard 2](docs/Dashboard-2.png)
 
 ## Google Cloud Usage Billing Report
 Data infrastructure we used in this project are entirely built on Google Cloud Platform with more or less 3 weeks of project duration, 
